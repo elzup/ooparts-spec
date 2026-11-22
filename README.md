@@ -9,4 +9,4 @@ Useful by accident. Designed without purpose. A collection of OOPArts.
 [![ooparts](https://raw.githubusercontent.com/elzup/ooparts-spec/main/badge.svg)](https://github.com/elzup/ooparts-spec)
 
 
-lookup: https://github.com/search?q=elzup%2Fooparts-spec+path%3A**%2Freadme.md&type=code&ref=advsearch
+[ooparts list](https://github.com/search?q=elzup%2Fooparts-spec+path%3A**%2Freadme.md&type=code&ref=advsearch)
